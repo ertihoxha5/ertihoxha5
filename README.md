@@ -1,8 +1,12 @@
 <div align="center">
 
 <h1 align="center">
-  <span class="glow">⚡ Erti Hoxha</span>
+  ⚡ Erti Hoxha
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Developer;Cloud+Enthusiast;Full+Stack+Builder;Always+Learning+New+Things"/>
+</p>
 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+Cloud+Developer;Building+Products+That+Matter;Always+Learning+Something+New"/>
