@@ -1,106 +1,111 @@
+<!-- ================= HERO ================= -->
+
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:3b82f6,100:8b5cf6&text=Erti%20Hoxha&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+%26+Cloud+Developer;Full-Stack+Builder;Systems+Thinker;Always+Learning+New+Things"/>
 
-<!-- ===== HERO HEADER (UPGRADED) ===== -->
+<br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,25:1e293b,50:3b82f6,100:8b5cf6&text=Erti%20Hoxha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%7C%20Cloud%20%7C%20Full-Stack&descAlignY=58"/>
+<p>
+<img src="https://komarev.com/ghpvc/?username=ertihoxha5&style=for-the-badge&color=3b82f6"/>
+<img src="https://img.shields.io/github/followers/ertihoxha5?style=for-the-badge&logo=github"/>
 </p>
 
-<!-- ===== ANIMATED TYPING LINE ===== -->
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+I am **Erti Hoxha**, a Computer Science & Engineering student focused on building real-world software systems.
+
+I enjoy turning ideas into working products — not just writing code, but designing systems that scale and solve real problems.
+
+### What I focus on:
+- 🤖 Artificial Intelligence
+- ☁️ Cloud Computing
+- 🖥 Server Infrastructure
+- ⚙️ Backend Engineering
+- 📱 Full-Stack Development
+
+---
+
+# 🚀 What I’m Building
+
+### 🌌 MokaFlux
+AI-driven platform focused on modern digital experiences and experimentation.
+
+### 📱 UBT FindPoint
+Lost & Found system built with:
+React Native • Node.js • Express • MySQL
+
+### 🌍 JourneySync
+Collaborative travel planning application for group coordination.
+
+### 🖥 Data Center Simulator
+Educational project simulating real infrastructure systems:
+- Cooling systems
+- Server racks
+- Power distribution
+- Networking basics
+
+---
+
+# ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+scalable+systems+that+solve+real+problems.;Artificial+Intelligence+%26+Machine+Learning.;Cloud+Computing+%26+Distributed+Systems.;Full-Stack+Engineering+%26+Backend+Architecture.;Always+learning%2C+always+building."/>
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript"/><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express"/><br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/><br>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode"/>
+
 </p>
 
-<!-- ===== BADGES ===== -->
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ertihoxha5&style=for-the-badge&color=3b82f6"/>
-  <img src="https://img.shields.io/github/followers/ertihoxha5?style=for-the-badge&logo=github&color=1f2937"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Cloud-3b82f6?style=for-the-badge"/>
-</p>
 
-<!-- ===== CONNECT ===== -->
-
-<p align="center">
-  <a href="https://linkedin.com/in/erti-hoxha-0b8726281">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ertihoxha5">
-    <img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-⸻
-
-👨‍💻 About Me
-
-I am a Computer Science & Engineering student who enjoys transforming ideas into complete software products.
-
-Rather than only learning theory, I focus on building real-world systems — from mobile applications and AI tools to cloud-based platforms and infrastructure simulations.
-
-My interests include software architecture, artificial intelligence, cloud technologies, backend engineering, and modern system design.
-
-I believe the best way to grow as a developer is to build, break, fix, and improve continuously.
-
-⸻
-
-🚀 Featured Projects
-
-✨ MokaFlux — Building modern digital experiences with creativity and technology.
-
-📱 UBT FindPoint — Full-stack lost & found platform using React Native, Node.js, Express & MySQL.
-
-🌍 JourneySync — Collaborative travel planning application.
-
-🖥️ Data Center Simulator — Interactive simulator for learning server infrastructure concepts.
-
-⸻
-
-⚙️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,nodejs,react,nextjs,express,mysql,mongodb,firebase,docker,linux,git,github,vscode,figma&perline=9"/>
-</p>
-
-⸻
-
-📊 GitHub Stats
-
-<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ertihoxha5&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ertihoxha5&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+---
+
+# 🎯 Current Focus
+
+- AI & Machine Learning systems  
+- Cloud architecture & scaling  
+- DevOps & containerization  
+- Building production-ready apps  
+- Improving system design skills  
+
+---
+
+# 🤝 Connect With Me
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertihoxha5&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<a href="https://linkedin.com/in/erti-hoxha-0b8726281">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/ertihoxha5">
+<img src="https://img.shields.io/badge/GitHub-Follow-000?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
-⸻
-
-🐍 Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-⸻
-
-🎯 Current Focus
-
-* 🤖 Artificial Intelligence
-* ☁️ Cloud Computing
-* 🖥️ Server Infrastructure
-* 📱 Full-Stack Development
-* 🚀 Building MokaFlux
-
-⸻
+---
 
 <div align="center">
 
-Thanks for visiting 👋
-
-“Great software isn’t just written. It’s designed, engineered, and continuously improved.”
+### ⚡ “Build things that actually matter.”
 
 </div>
