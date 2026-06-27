@@ -4,34 +4,6 @@
   <span class="glow">⚡ Erti Hoxha</span>
 </h1>
 
-<style>
-.glow {
-  font-size: 42px;
-  font-weight: bold;
-  color: #ffffff;
-  text-shadow: 
-    0 0 5px #3b82f6,
-    0 0 10px #3b82f6,
-    0 0 20px #3b82f6,
-    0 0 40px #3b82f6;
-  animation: glowAnim 2s ease-in-out infinite alternate;
-}
-
-@keyframes glowAnim {
-  from {
-    text-shadow: 
-      0 0 5px #3b82f6,
-      0 0 10px #3b82f6,
-      0 0 20px #3b82f6;
-  }
-  to {
-    text-shadow: 
-      0 0 10px #60a5fa,
-      0 0 25px #60a5fa,
-      0 0 50px #60a5fa;
-  }
-}
-</style>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+Cloud+Developer;Building+Products+That+Matter;Always+Learning+Something+New"/>
 <p>
