@@ -16,11 +16,12 @@
 
 ⸻
 
-💡 Who Am I?
+## 💡 Who Am I?
 
+```js
 const Erti = {
     role: "Computer Science & Engineering Student",
-    location: "Kosovo 🇽🇰",
+    location: "Prishtina, Kosovo 🇽🇰",
     passions: [
         "Artificial Intelligence",
         "Cloud Computing",
@@ -35,10 +36,8 @@ const Erti = {
         "Containerization",
         "Scalable Backend Systems"
     ],
-    philosophy:
-        "Technology should solve real problems while remaining simple, scalable and enjoyable to use.",
-    funFact:
-        "I learn best by building real-world projects instead of only studying theory."
+    philosophy: "Technology should solve real problems while remaining simple, scalable and enjoyable to use.",
+    funFact: "I learn best by building real-world projects instead of only studying theory."
 }
 
 ⸻
