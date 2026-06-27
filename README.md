@@ -2,22 +2,36 @@
 
 
 
+<!-- ===== HERO HEADER (UPGRADED) ===== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:3b82f6,100:8b5cf6&text=Erti%20Hoxha&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,25:1e293b,50:3b82f6,100:8b5cf6&text=Erti%20Hoxha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%7C%20Cloud%20%7C%20Full-Stack&descAlignY=58"/>
 </p>
 
+<!-- ===== ANIMATED TYPING LINE ===== -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+scalable+systems+that+solve+real+problems.;Artificial+Intelligence+%26+Machine+Learning.;Cloud+Computing+%26+Distributed+Systems.;Full-Stack+Engineering+%26+Backend+Architecture.;Always+learning%2C+always+building."/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+Cloud+Developer;Building+Products+That+Matter;Always+Learning+Something+New"/>
-<p>
+<!-- ===== BADGES ===== -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ertihoxha5&style=for-the-badge&color=3b82f6"/>
+  <img src="https://img.shields.io/github/followers/ertihoxha5?style=for-the-badge&logo=github&color=1f2937"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Cloud-3b82f6?style=for-the-badge"/>
+</p>
+
+<!-- ===== CONNECT ===== -->
+
+<p align="center">
   <a href="https://linkedin.com/in/erti-hoxha-0b8726281">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/ertihoxha5">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-</div>
 
 ⸻
 
