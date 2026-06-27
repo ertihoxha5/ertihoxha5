@@ -1,66 +1,72 @@
 <div align="center">
 
-⚡ Erti Hoxha
+# ⚡ Erti Hoxha
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Engineer;Artificial+Intelligence+Developer;Cloud+Computing+Enthusiast;Full+Stack+Developer;Building+Technology+That+Matters"/>
+
 <p>
   <a href="https://github.com/ertihoxha5">
     <img src="https://img.shields.io/github/followers/ertihoxha5?label=Followers&logo=github&style=for-the-badge"/>
   </a>
+
   <a href="https://linkedin.com/in/erti-hoxha-0b8726281">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
+
   <img src="https://komarev.com/ghpvc/?username=ertihoxha5&style=for-the-badge"/>
 </p>
+
 </div>
 
-⸻
+---
 
 ## 💡 Who Am I?
 
-```js
+```typescript
 const Erti = {
     role: "Computer Science & Engineering Student",
-    location: "Prishtina, Kosovo 🇽🇰",
+    location: "Kosovo 🇽🇰",
+
     passions: [
         "Artificial Intelligence",
         "Cloud Computing",
         "Software Engineering",
         "Server Infrastructure",
         "Distributed Systems",
-        "UI / UX Design"
+        "UI/UX Design"
     ],
+
     currentlyLearning: [
         "Machine Learning",
         "Cloud Architecture",
         "Containerization",
         "Scalable Backend Systems"
     ],
-    philosophy: "Technology should solve real problems while remaining simple, scalable and enjoyable to use.",
-    funFact: "I learn best by building real-world projects instead of only studying theory."
+
+    philosophy:
+        "Technology should solve real problems while remaining simple, scalable, and enjoyable to use.",
+
+    funFact:
+        "I learn best by building real-world projects instead of only studying theory."
 }
 
-⸻
-
-🚀 About Me
+## About Me
 
 I am a Computer Science & Engineering student who enjoys transforming ideas into complete software products.
 
-Rather than only learning concepts, I enjoy implementing them through practical projects—from mobile applications and AI-powered tools to cloud-based systems and infrastructure simulations.
+Rather than only learning theory, I focus on building real-world systems — from mobile applications and AI tools to cloud-based platforms and infrastructure simulations.
 
-My interests span across software architecture, artificial intelligence, cloud technologies, server infrastructure, backend engineering and modern user experiences.
+My interests include software architecture, artificial intelligence, cloud technologies, backend engineering, and modern system design.
 
-I believe that the best way to improve as an engineer is by continuously building, experimenting and sharing knowledge.
+I believe the best way to grow as a developer is to build, break, fix, and improve continuously.
 
-⸻
-
-🏗 Featured Projects
+##Featured Projects
 
 🌌 MokaFlux
 
-A growing platform focused on creating innovative software experiences, AI-powered tools and creative digital products.
+A growing platform focused on innovative software systems and AI-powered tools.
 
-Focus
+Focus:
 
 * AI
 * Modern UI
@@ -71,102 +77,87 @@ Focus
 
 📱 UBT FindPoint
 
-A Lost & Found platform developed using modern full-stack technologies.
+Lost & Found mobile platform.
 
-Features:
+Stack: React Native • Node.js • Express • MySQL
 
-* Authentication
-* Image Uploads
-* Database Integration
-* Responsive Mobile Interface
-* Secure Backend API
-
-Stack:
-
-React Native • Express.js • Node.js • MySQL
+* Authentication system
+* Image uploads
+* Database integration
+* Mobile-first UI
 
 ⸻
 
 🌍 JourneySync
 
-A collaborative travel planning platform designed to simplify organizing trips with friends.
+Collaborative travel planning platform.
 
-Features:
-
-* Trip Planning
-* Shared Itineraries
-* Group Collaboration
-* Modern Interface
+* Trip planning
+* Shared itineraries
+* Group collaboration
+* Clean modern interface
 
 ⸻
 
 🖥 Data Center Simulator
 
-An educational simulator built to demonstrate how modern data centers operate.
+Educational simulator for infrastructure systems.
 
-Topics covered:
+Topics:
 
-* Rack Layouts
-* Hot & Cold Aisles
-* CRAC / CRAH Cooling
-* UPS Systems
-* Power Distribution
-* Server Infrastructure
-* Networking Fundamentals
-
-⸻
+* Server racks
+* Hot / Cold aisles
+* CRAC / CRAH cooling
+* UPS systems
+* Power distribution
+* Networking fundamentals
 
 ⚙ Tech Stack
 
 Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,html,css"/>
 </p>
 
 Frontend
-
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
 </p>
 
 Backend
-
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
 </p>
 
 Databases
-
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
 Cloud & Infrastructure
-
 <p>
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel"/>
 </p>
 
 Tools
-
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,figma,postman"/>
 </p>
 
-⸻
-
-📈 GitHub Analytics
-
+## 📈 GitHub Analytics
 <p align="center">
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ertihoxha5&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ertihoxha5&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertihoxha5&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-⸻
+<p align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertihoxha5&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 🌱 Current Goals
 
@@ -192,25 +183,24 @@ Tools
 * Server Infrastructure
 * Human-Centered Design
 
-⸻
-
-🤝 Let’s Connect
-
+## 🤝 Let’s Connect
 <p align="center">
 <a href="https://linkedin.com/in/erti-hoxha-0b8726281">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="https://github.com/ertihoxha5">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-000?style=for-the-badge&logo=github"/>
 </a>
 </p>
-
-⸻
-
 <div align="center">
-
 “Build something today that your future self will be proud of.”
 
 ⭐ Thanks for visiting my profile!
-
 </div>
+```
+
+
+
+
+
+
