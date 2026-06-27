@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1 align="center">
-  ⚡ Erti Hoxha
-</h1>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:3b82f6,100:8b5cf6&text=Erti%20Hoxha&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
